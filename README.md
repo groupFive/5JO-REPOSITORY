@@ -73,6 +73,7 @@
   #### $ cd 메인폴더   
   #### $ mkdir gitstudy05_clone 복제할 새 폴더 만들기
   #### $ cd gitstudy05_clone/
+  
   #### 
   #### 복사 후 la -all 명령어로 목록을 확인 하는 게 가능합니다.
   #### $ ls -all 
