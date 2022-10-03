@@ -9,5 +9,5 @@
 
 
 
-[Work1. 교재 5장 정리]: http://www.google.com
+[Work1. 교재 5장 정리]: https://github.com/groupFive/5JO-REPOSITORY/tree/main/%EA%B5%90%EC%9E%AC%205%EC%9E%A5%20%EC%A0%95%EB%A6%AC
 [Work2. 오픈 소프트웨어 역사와 현황]: http://www.google.com
