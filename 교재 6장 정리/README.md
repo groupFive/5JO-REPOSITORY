@@ -18,5 +18,5 @@
 ### [ 6.9 원격 브랜치 ](https://github.com/groupFive/5JO-REPOSITORY/blob/main/%EA%B5%90%EC%9E%AC%206%EC%9E%A5%20%EC%A0%95%EB%A6%AC/6.9%20%EC%9B%90%EA%B2%A9%20%EB%B8%8C%EB%9E%9C%EC%B9%98.md) <img src="https://img.shields.io/badge/김태윤-3DDC84?style=flat-square&logoColor=white"/>
 ### [ 6.10 브랜치 전송 ](https://github.com/groupFive/5JO-REPOSITORY/blob/main/%EA%B5%90%EC%9E%AC%206%EC%9E%A5%20%EC%A0%95%EB%A6%AC/6.10%20%EB%B8%8C%EB%9E%9C%EC%B9%98%20%EC%A0%84%EC%86%A1.md) <img src="https://img.shields.io/badge/장태현-3DDC84?style=flat-square&logoColor=white"/>
 ### [ 6.11 브랜치 삭제 ](https://github.com/groupFive/5JO-REPOSITORY/blob/main/%EA%B5%90%EC%9E%AC%206%EC%9E%A5%20%EC%A0%95%EB%A6%AC/6.11%20%EB%B8%8C%EB%9E%9C%EC%B9%98%20%EC%82%AD%EC%A0%9C.md) <img src="https://img.shields.io/badge/김성원-3DDC84?style=flat-square&logoColor=white"/>
-### [ 6.12 정리 ](https://github.com/groupFive/5JO-REPOSITORY/blob/main/%EA%B5%90%EC%9E%AC%206%EC%9E%A5%20%EC%A0%95%EB%A6%AC/6.9%20%EC%9B%90%EA%B2%A9%20%EB%B8%8C%EB%9E%9C%EC%B9%98.md)
+### [ 6.12 정리 ](https://github.com/groupFive/5JO-REPOSITORY/blob/main/%EA%B5%90%EC%9E%AC%206%EC%9E%A5%20%EC%A0%95%EB%A6%AC/6.12%20%EC%A0%95%EB%A6%AC.md)
 
