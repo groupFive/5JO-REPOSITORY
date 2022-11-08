@@ -1,4 +1,4 @@
-# :doughnut: 6장 브랜치 :doughnut:
+# :doughnut: 8장 병합과 충돌 :doughnut:
 
 ### [ 8.1 병합 ](https://github.com/groupFive/5JO-REPOSITORY/blob/main/%EA%B5%90%EC%9E%AC%208%EC%9E%A5%20%EC%A0%95%EB%A6%AC/8.1%20%EB%B3%91%ED%95%A9.md) <img src="https://img.shields.io/badge/양준모-green?style=flat-square&logoColor=white"/>
 ###
