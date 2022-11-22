@@ -1,6 +1,6 @@
 
 
- ## <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=opensourceinitiative&logoColor=black"/>오픈소스소프트웨어 저작권 <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=opensourceinitiative&logoColor=black"/>
+ ## <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=opensourceinitiative&logoColor=black"/>오픈소스소프트웨어(OSS) 저작권 <img src="https://img.shields.io/badge/-FFFFFF?style=flat-square&logo=opensourceinitiative&logoColor=black"/>
 
 ### 들어가기
 &nbsp;&nbsp;오픈소스소프트웨어 저작권 개념을 정확히 알기 위해선 먼저 오픈소스와 소프트웨어 지식재<br>산권에 대한 이해가 필요하다. 따라서 이 장에서는 오픈소스와 소프트웨어 지식재산권을 선행<br>하여 다룬 후, 마지막으로 오픈소스소프트웨어 저작권에 대해 알아보도록 하겠다.
