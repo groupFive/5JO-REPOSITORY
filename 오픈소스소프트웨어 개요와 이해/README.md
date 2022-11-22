@@ -1,4 +1,4 @@
-# :palm_tree: 오픈 소프트웨어 역사와 현황 :palm_tree:
+# :palm_tree: 오픈소스 소프트웨어 개요와 이해 :palm_tree:
 
 <br>
 
